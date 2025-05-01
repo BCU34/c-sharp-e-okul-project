@@ -1,0 +1,67 @@
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.csproj.AssemblyReference.cache
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmMudurGiris.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.Properties.Resources.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.csproj.GenerateResource.cache
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.csproj.CoreCompileInputs.cache
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\bin\Debug\eokul.exe.config
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\bin\Debug\eokul.exe
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\bin\Debug\eokul.pdb
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmAnaGiris.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.exe
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.pdb
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmMudurDetay.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.TimerForm.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmMudurHakkinda.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmMudureGelenBasvurular.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmOgretmenGiris.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmOgretmenKayit.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuru.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuruKontrolEtme.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuruSilme.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\bin\Debug\eokul.exe.config
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\bin\Debug\eokul.exe
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\bin\Debug\eokul.pdb
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.csproj.AssemblyReference.cache
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmAnaGiris.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmMudurDetay.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmMudureGelenBasvurular.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmMudurGiris.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmMudurHakkinda.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuru.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuruKontrolEtme.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuruSilme.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmOgretmenGiris.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmOgretmenKayit.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.Properties.Resources.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.TimerForm.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.csproj.GenerateResource.cache
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.csproj.CoreCompileInputs.cache
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.exe
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.pdb
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmBasvurularsql.resources
+C:\Users\bcu14\Downloads\BCU\KODLAMA İSLEMİ\c# projeleri\SQLSERVER UYGULAMA\eokul\eokul\obj\Debug\eokul.FrmOgretmenİslemler.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\bin\Debug\eokul.exe.config
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\bin\Debug\eokul.exe
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\bin\Debug\eokul.pdb
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.csproj.AssemblyReference.cache
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmAnaGiris.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmBasvurularsql.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmMudurDetay.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmMudureGelenBasvurular.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmMudurGiris.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmMudurHakkinda.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuru.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuruKontrolEtme.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenBasvuruSilme.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenGiris.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenKayit.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenİslemler.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.Properties.Resources.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.TimerForm.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.csproj.GenerateResource.cache
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.csproj.CoreCompileInputs.cache
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.exe
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.pdb
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmOgretmenNotGiris.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmYoklamaSinifiGiris.resources
+C:\Users\bcu14\Downloads\BCU\Kodlama islemleri\c# projeler\eokul\eokul\obj\Debug\eokul.FrmYoklamaSistemi.resources
